@@ -1,2 +1,5 @@
 # Comprog2
-This is my project in school
+# Csharp winform project 
+This is my project. 
+Still 70% unfinished... 
+
