@@ -1,4 +1,4 @@
 # Comprog2
-**Csharp winform project**  
-*Still 70% unfinished...* 
+**School project Csharp winform project**  
+*Unstable Project* 
 
